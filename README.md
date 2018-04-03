@@ -34,12 +34,12 @@ In the command line, from the root repo:
 *** Documentation ***
 You are very highly encouraged to use only the following documentation:
 
-Expressjs - https://expressjs.com/
-MySQL - https://dev.mysql.com/doc/
-SQL Cheatsheet - http://www.cheat-sheets.org/sites/sql.su/
-Sequelize - http://docs.sequelizejs.com/
-MDN - https://developer.mozilla.org/en-US/docs/Web/JavaScript
-W3schools - https://www.w3schools.com/js/default.asp
+Expressjs - https://expressjs.com/ __
+MySQL - https://dev.mysql.com/doc/ __
+SQL Cheatsheet - http://www.cheat-sheets.org/sites/sql.su/ __
+Sequelize - http://docs.sequelizejs.com/ __
+MDN - https://developer.mozilla.org/en-US/docs/Web/JavaScript __
+W3schools - https://www.w3schools.com/js/default.asp __
 
 *** Optional Technologies ***
 Sequelize
